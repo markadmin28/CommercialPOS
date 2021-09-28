@@ -1,2 +1,2 @@
 # CommercialPOS
-Commercial Point of Sales with dual setup for pharmacy management or in Groceries/Meat shops/ direct sales setup
+Commercial Point of Sales with dual setup for pharmacy management or in Groceries/Meat shops and any direct sales setup.
